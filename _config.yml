@@ -5,29 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-#Respects and Tributes-------
-#Mahendra Chandra Roy
-#Kashishwari Devi
-#Sachindra Kumar Roy
-#Indubala Roy
-#Dhiranando Roy
-#Indubala Roy
-#
-#
-#and love for
-#Papia Roy
-#Abanti Moitra Mondal
-#Ujjayini Moitra
-#Bidisha Roy
-#Krishnendu Sengupta
-#Biplab Moitra
-#Suvasish Mondal
-
-#যাঁ হতে বাহিরে ছড়ায়ে পড়িছে পৃথিবী আকাশ তারা ,
-# যাঁ হতে আমার অন্তরে আসে বুদ্ধি চেতনা ধারা
-#— তাঁরি পূজনীয় অসীম শক্তি ধ্যান করি আমি লইয়া ভক্তি"
-
-
 
 # Basic Site Settings
 locale                   : "en-US"
@@ -348,6 +325,14 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+#Respects and Tributes to
+#Mahendra Chandra Roy
+#Kashishwari Devi
+#Sachindra Kumar Roy
+#Indubala Roy
+#Dhiranando Roy
+#Indubala Roy
+
 
 
 # Archives
